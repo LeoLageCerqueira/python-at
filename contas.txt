@@ -1,0 +1,6 @@
+1;Leonardo Lage;-4.0
+2;Nuno Gomes;3500.0
+3;Marilia Garcia;4600.0
+120;Maria matos;1200.0
+14;Flora Schneider;120000.0
+6;Rafael Salles;1200.53
